@@ -9,11 +9,11 @@ Here are some of the screenshots from the website
 
 Tech Stack used:
 1. Reactjs
-3. Nodejs
-4. Expressjs
-5. MongoDB
-6. Cloudinary
-7.OpenAi
+2. Nodejs
+3. Expressjs
+4. MongoDB
+5. Cloudinary
+6. OpenAi
 
 This site is hosted on https://render.com.
 
