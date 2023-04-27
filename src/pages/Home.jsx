@@ -19,7 +19,7 @@ const Home = () => {
     const fetchPosts = async () => {
       setLoading(true)
       try {
-        const response = await fetch('https://picture-this-AI.com/api/post', {
+        const response = await fetch('https://picture-this-ai-api.onrender.com/api/post', {
           method: 'GET',
           headers: {
             'Content-Type': 'application/json'
