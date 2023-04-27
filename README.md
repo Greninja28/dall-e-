@@ -8,7 +8,7 @@ Here are some of the screenshots from the website
 ![image](https://user-images.githubusercontent.com/89766122/234827871-ac91070f-4762-4e49-8a16-14be00b3ce82.png)
 
 Tech Stack used:
-1. Reactjs
+1. Vite-Reactjs
 2. Nodejs
 3. Expressjs
 4. MongoDB
